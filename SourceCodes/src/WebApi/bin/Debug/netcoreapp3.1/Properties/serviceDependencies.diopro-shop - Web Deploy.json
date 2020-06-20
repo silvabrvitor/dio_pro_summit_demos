@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cosmosdb1": {
+      "type": "cosmosdb",
+      "suggestion": "true",
+      "ignored": "true"
+    }
+  }
+}
